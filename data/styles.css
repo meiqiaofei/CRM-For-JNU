@@ -13,6 +13,8 @@
 }
 ._图片 {
 }
+.button {
+}
 .box_3 {
 }
 ._一级标题 {
@@ -115,5 +117,8 @@
   color:#169BD5;
 }
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
